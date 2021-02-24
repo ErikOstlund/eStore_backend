@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules
+
+# dotenv environment variables file
+variables.env
+*.env
+
+# VSCode settings/workspace settings
+.vscode
+
+# GraphQL auto-generated files
+src/generated
+
+# Mac auto-generated files
+*.DS_Store
