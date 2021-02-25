@@ -1,6 +1,6 @@
-# sickFits_backend
+# eStore_backend
 
-React Fullstack App - Backend
+React Typescript GraphQL - Backend
 
 ## To Start
 
